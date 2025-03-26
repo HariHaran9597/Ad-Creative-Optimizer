@@ -1,7 +1,7 @@
 # 🚀 AI-Powered Ad Creative Optimizer
 
 **An intelligent agent that analyzes ad creatives (text + visuals) and recommends high-performing variants for A/B testing.**  
-*Built for Zocket's Office of the CTO internship application.*
+
 
 [![Streamlit Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -18,7 +18,7 @@
 - **Multimodal Analysis**: Combines Gemini (NLP) + OpenCV (CV) to optimize ads
 - **Smart Ranking**: Scores creatives based on text coverage, brightness, and contrast
 - **Streamlit UI**: Interactive dashboard for marketers
-- **Zocket Tech Stack**: LangGraph, Chroma, LangSmith
+- **Tech Stack**: LangGraph, Chroma, LangSmith
 - **Enterprise Ready**: Docker support, API docs, and analytics
 
 ---
@@ -80,6 +80,11 @@ graph TD
 ```
 
 ---
+
+![image](https://github.com/user-attachments/assets/a3478fba-a74e-490c-b593-cee390a0a225)
+
+
+
 
 ## 📂 Project Structure
 
